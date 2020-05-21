@@ -1,1 +1,1 @@
-# Excel-Projects
+This Repository contains all my personal projects which were done in Excel. Each folder is a seperate project. In each folder, you can find Excel Workbook (actual analysis) and accompanying Word Document. 
